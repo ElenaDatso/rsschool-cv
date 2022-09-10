@@ -81,6 +81,6 @@ const capitals = function (word) {
 
 ### Languages
 
-**English**: intermediate
+**English**: intermediate, B1
 
 **Ukrainian/Russian**: native
